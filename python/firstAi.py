@@ -24,9 +24,10 @@ while len(inp):
       print("unknown input")
   else:
     print("i dont have this website pls add url")
-    data[inp] = input()
-    # database.write(data[inp])
     print("thans for adding some info")
+
+    data[inp] = input()
+
   inp = input()
 
 
