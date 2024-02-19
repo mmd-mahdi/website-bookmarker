@@ -1,1 +1,5 @@
-{"google":"https://www.google.com"}
+{
+    "websites": {
+        "google": "google.com"
+    }
+}
