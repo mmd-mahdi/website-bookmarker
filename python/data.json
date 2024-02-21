@@ -1,5 +1,7 @@
 {
     "websites": {
-        "google": "google.com"
+        "google": "google.com",
+        "bing": "bing.com",
+        "dlfox": "dlfox.com"
     }
 }
